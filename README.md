@@ -10,7 +10,8 @@
 
 ---
 
-🧠 How It Works
+## 🧠 How It Works
+
 Detects your hand gestures and checks if only the middle finger is getting shown.
 
 Finds forehead and locks the target.
