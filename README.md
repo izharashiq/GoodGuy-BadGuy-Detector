@@ -31,6 +31,12 @@ UI shows text like "Bad Guy Detected"
 
 ---
 
+## 🧪 Live Demo
+
+📽️ **Watch it here**: [Instagram Reel](https://www.instagram.com/reel/DMc-KmdyrNp/)
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone this Repo
