@@ -63,5 +63,4 @@ python Detector.py
 ```
 Then point your webcam at yourself and raise that middle finger (for science 👀).
 
-
-*✨ Made by @IzharAshiq – Because why just wave, when you can target? 😎*
+*✨ Made by Created by: [Github Profile](https://www.github.com/izharashiq) – Because why just wave, when you can target? 😎*
