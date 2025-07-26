@@ -65,7 +65,7 @@ Then point your webcam at yourself and raise that middle finger (for science �
 
 ### 📄 License
 
-MIT License - see [LICENSE](https://github.com/izharashiq/GoodGuy-BadGuy-Detector/blob/main/LICENCE) file for details.
+MIT License - see [LICENSE](https://github.com/izharashiq/GoodGuy-BadGuy-Detector/blob/main/LICENSE) file for details.
 
 Free to use, modify, distribute. Just don't be evil. 😇
 
