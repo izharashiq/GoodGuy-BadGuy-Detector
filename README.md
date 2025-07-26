@@ -39,7 +39,7 @@ UI shows text like "Bad Guy Detected"
 
 ## 🚀 Getting Started
 
-### 1. Clone this Repo
+1. **Clone this Repo**
 
 ```bash
 git clone https://github.com/izharashiq/GoodGuy-BadGuy-Detector.git
@@ -49,18 +49,28 @@ git clone https://github.com/izharashiq/GoodGuy-BadGuy-Detector.git
 cd GoodGuy-BadGuy-Detector
 ```
 
-### 2. Install Dependencies
+2. **Install Dependencies**
 Install required packages using requirements.txt:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run the program
+3. **Run the program**
 
 ```bash
 python Detector.py
 ```
 Then point your webcam at yourself and raise that middle finger (for science 👀).
 
-*✨ Made by Created by: [Github Profile](https://www.github.com/izharashiq) – Because why just wave, when you can target? 😎*
+### 📄 License
+
+MIT License - see LICENSE file for details.
+
+Free to use, modify, distribute. Just don't be evil. 😇
+
+### 👨‍💻 Author
+
+Created by: [Github Profile](https://www.github.com/izharashiq)
+
+🤝 Follow on [Instagram](https://www.instagram.com/i_izhar9?igsh=OWZ2MTZvbW9pbXE1)
