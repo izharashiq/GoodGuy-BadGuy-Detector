@@ -50,7 +50,6 @@ cd GoodGuy-BadGuy-Detector
 ```
 
 2. **Install Dependencies**
-Install required packages using requirements.txt:
 
 ```bash
 pip install -r requirements.txt
@@ -61,11 +60,12 @@ pip install -r requirements.txt
 ```bash
 python Detector.py
 ```
+
 Then point your webcam at yourself and raise that middle finger (for science 👀).
 
 ### 📄 License
 
-MIT License - see LICENSE file for details.
+MIT License - see [LICENSE](https://github.com/izharashiq/GoodGuy-BadGuy-Detector/blob/main/LICENCE) file for details.
 
 Free to use, modify, distribute. Just don't be evil. 😇
 
